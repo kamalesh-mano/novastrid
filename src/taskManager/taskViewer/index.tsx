@@ -46,7 +46,7 @@ const TaskViewer = () => {
                         }}>Delete</Button></div>
                     </div>
             ))}  
-            </div> : <div>No Task</div>}
+            </div> : <div className="noTask">No Task</div>}
         </div>
     )
 }

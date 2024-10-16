@@ -21,3 +21,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.noTask{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
