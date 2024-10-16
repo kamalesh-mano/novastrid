@@ -32,7 +32,7 @@ const TaskViewer = () => {
       }}
       inputProps={{ 'aria-label': 'controlled' }}
     /></div>
-                        <div>{task.taskName}</div>
+                        <div className="taskName">{task.taskName}</div>
                         <div className="status">{task.status}</div>
                         <div><Button variant="outlined"
                         sx={{
