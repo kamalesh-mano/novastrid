@@ -1,0 +1,15 @@
+.newTask {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+    padding: 20px;
+    width: 50%;
+    
+    @media (min-width: 300px) and (max-width: 600px) {
+        flex-direction: column;
+        row-gap: 5px;
+    }
+
+}
+
