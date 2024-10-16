@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/novastrid/static/css/main.7ba35fc9.css",
+    "main.js": "/novastrid/static/js/main.ea9bb614.js",
+    "static/js/453.d48b8054.chunk.js": "/novastrid/static/js/453.d48b8054.chunk.js",
+    "index.html": "/novastrid/index.html",
+    "main.7ba35fc9.css.map": "/novastrid/static/css/main.7ba35fc9.css.map",
+    "main.ea9bb614.js.map": "/novastrid/static/js/main.ea9bb614.js.map",
+    "453.d48b8054.chunk.js.map": "/novastrid/static/js/453.d48b8054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba35fc9.css",
+    "static/js/main.ea9bb614.js"
+  ]
+}
